@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Compilação .NET
+**/bin/
+**/obj/
+
+# Configurações locais
+appsettings.Development.json
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Node.js / React
+node_modules/
+dist/
+.env
+.env.local
